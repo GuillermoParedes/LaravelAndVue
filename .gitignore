@@ -1,0 +1,13 @@
+
+/laravelandvue/node_modules
+/laravelandvue/public/hot
+/laravelandvue/public/storage
+/laravelandvue/storage/*.key
+/laravelandvue/vendor
+/laravelandvue/.idea
+/laravelandvue/.vagrant
+/laravelandvueHomestead.json
+/laravelandvueHomestead.yaml
+/laravelandvuenpm-debug.log
+/laravelandvueyarn-error.log
+/laravelandvue.env
